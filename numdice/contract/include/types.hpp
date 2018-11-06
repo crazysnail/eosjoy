@@ -4,8 +4,10 @@
 #define REVEALER N(gamerevealer)
 #define LOG N(fairdicelogs)
 
-static const string PUB_KEY =
-    "EOS4wpa8kRBbZof9JEpPAAgbnN65NhbBobW4x5gyxQoFfamhQCAMX";
+//static const string PUB_KEY =
+//    "EOS4wpa8kRBbZof9JEpPAAgbnN65NhbBobW4x5gyxQoFfamhQCAMX";
+
+#define PUB_KEY "EOS4wpa8kRBbZof9JEpPAAgbnN65NhbBobW4x5gyxQoFfamhQCAMX"
 
 // @abi table bets i64
 struct st_bet {
